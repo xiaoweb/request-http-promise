@@ -1,0 +1,20 @@
+{
+  "name": "request-http-promise",
+  "version": "1.0.0",
+  "description": "request for promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ajax",
+    "promise",
+    "request",
+    "http"
+  ],
+  "author": "小小WEB",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.80.0"
+  }
+}
