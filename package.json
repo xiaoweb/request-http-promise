@@ -1,6 +1,6 @@
 {
   "name": "request-http-promise",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "request for promise",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,10 @@
     "request",
     "http"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xiaoweb/request-http-promise.git"
+  },
   "author": "小小WEB",
   "license": "ISC",
   "dependencies": {
