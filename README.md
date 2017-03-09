@@ -13,8 +13,8 @@
     let app = new koa();
     
     app.use(async (ctx,next) =>{
-        let content = await http.get({url:'https://www.maxwon.cn'});
+        let content = await requestPromise.get({url:'https://www.maxwon.cn'});
         ctx.body = content;
     });
     
-    app.listen(10000)
+    app.listen(3000)
