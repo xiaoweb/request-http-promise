@@ -1,6 +1,6 @@
 {
   "name": "request-http-promise",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "request for promise",
   "main": "index.js",
   "scripts": {
